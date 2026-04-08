@@ -1,0 +1,19 @@
+    # Machine Learning
+    """Machine learning allows computers to learn from data without explicit programming.,
+    Deep learning is a subset of machine learning that uses neural networks.""",
+    
+    # Cooking
+    """Cooking requires proper ingredients, timing, and temperature control.,
+    Baking cakes needs precise measurements and careful mixing of ingredients.""",
+    
+    # Space
+    """Space exploration helps us understand planets, stars, and galaxies.,
+    Astronauts travel to space using rockets and live in space stations.""",
+    
+    # Programming
+    """Programming involves writing code to build software applications.,
+    Python is a popular programming language for data science and AI.""",
+    
+    # Sports
+    """Football is one of the most popular sports in the world.,
+    Regular exercise and sports improve physical and mental health."""

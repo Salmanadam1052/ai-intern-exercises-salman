@@ -1,0 +1,5 @@
+# Test queries for semantic_search.py — one per line
+
+tell me about ML 
+tell me about sports
+tell me about code

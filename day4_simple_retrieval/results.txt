@@ -1,0 +1,47 @@
+enter your query?tell me about ML      
+Top 3 relevant documents:
+Document 1 (Score: 0.2508):
+Machine learning allows computers to learn from data without explicit programming.,
+    Deep learning is a subset of machine learning that uses neural networks.
+
+Document 3 (Score: 0.0994):
+Space exploration helps us understand planets, stars, and galaxies.,
+    Astronauts travel to space using rockets and live in space stations.
+
+Document 4 (Score: 0.0810):
+Programming involves writing code to build software applications.,
+    Python is a popular programming language for data science and AI.
+
+Type 'exit' to quit the program.
+enter your query?tell me about sports
+Top 3 relevant documents:
+Document 5 (Score: 0.6410):
+Football is one of the most popular sports in the world.,
+    Regular exercise and sports improve physical and mental health.
+
+Document 3 (Score: 0.1923):
+Space exploration helps us understand planets, stars, and galaxies.,
+    Astronauts travel to space using rockets and live in space stations.
+
+Document 4 (Score: 0.1849):
+Programming involves writing code to build software applications.,
+    Python is a popular programming language for data science and AI.
+
+Type 'exit' to quit the program.
+enter your query?tell me about code
+Top 3 relevant documents:
+Document 4 (Score: 0.3921):
+Programming involves writing code to build software applications.,
+    Python is a popular programming language for data science and AI.
+
+Document 1 (Score: 0.2416):
+Machine learning allows computers to learn from data without explicit programming.,
+    Deep learning is a subset of machine learning that uses neural networks.
+
+Document 3 (Score: 0.0905):
+Space exploration helps us understand planets, stars, and galaxies.,
+    Astronauts travel to space using rockets and live in space stations.
+
+Type 'exit' to quit the program.
+enter your query?exit
+Exiting the program.
