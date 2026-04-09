@@ -1,0 +1,5 @@
+#1
+your question:  What is 12 * 7?
+tool used : calculator
+Answer : 12 * 7 = **84**
+#2
